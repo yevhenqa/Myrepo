@@ -29,5 +29,11 @@ class Main {
 
         // Task 10
         System.out.println(TaskTen.concatenate());
+
+        // Task 11
+        System.out.println(TaskEleven.removeNumbers());
+
+        // Task 12
+        System.out.println(TaskTwelve.anotherRemove());
     }
 }
