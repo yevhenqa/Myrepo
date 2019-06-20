@@ -2,7 +2,7 @@ package Playground;
 
 class Main {
     public static void main(String[] args) {
-
+/*
         // Task 1
         System.out.println(TaskOne.threeNumbers());
 
@@ -35,5 +35,9 @@ class Main {
 
         // Task 12
         System.out.println(TaskTwelve.anotherRemove());
+        */
+
+        // Task 13
+        System.out.println (TaskThirteen.pyramid());
     }
 }
